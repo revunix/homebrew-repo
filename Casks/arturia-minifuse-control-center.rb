@@ -7,5 +7,4 @@ cask 'arturia-minifuse-control-center' do
   homepage 'http://www.arturia.com/support/downloads&manuals'
 
   pkg "MiniFuse_Control_Center__#{version.dots_to_underscores}.pkg"
-
 end
